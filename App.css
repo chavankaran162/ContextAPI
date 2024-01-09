@@ -1,0 +1,41 @@
+body {
+    background: #000;
+    color: #fff;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.wrapper h2 {
+    font-size: 35px;
+}
+
+.wrapper input {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 14%;
+}
+
+.pass {
+    margin: 13px;
+}
+
+.btn {
+    background: red;
+    color: #ffff;
+    padding: 9px 22px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 28px;
+    color: red;
+    letter-spacing: 2px;
+}
